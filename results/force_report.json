@@ -1,0 +1,1064 @@
+{
+  "working": [],
+  "report": [
+    {
+      "section": "baseline",
+      "label": "Bangla TV",
+      "channel": "JiK-_poBEef-9-uVZv6L",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": null
+    },
+    {
+      "section": "baseline",
+      "label": "Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": null
+    },
+    {
+      "section": "baseline",
+      "label": "Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": null
+    },
+    {
+      "section": "baseline",
+      "label": "Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": null
+    },
+    {
+      "section": "platform",
+      "label": "web/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "web"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "web/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "web"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "web/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "web"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "android/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "android"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "android/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "android"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "android/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "android"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "ios/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "ios"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "ios/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "ios"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "ios/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "ios"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "tv/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "tv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "tv/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "tv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "tv/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "tv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "firetv/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "firetv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "firetv/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "firetv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "firetv/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "firetv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "smarttv/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "smarttv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "smarttv/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "smarttv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "smarttv/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "smarttv"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "browser/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "browser"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "browser/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "browser"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "browser/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "browser"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "app/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "app"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "app/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "app"
+      }
+    },
+    {
+      "section": "platform",
+      "label": "app/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "platform": "app"
+      }
+    },
+    {
+      "section": "headers",
+      "label": "app-ua/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "User-Agent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "app-ua/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "User-Agent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "app-ua/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "User-Agent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "client-api-header/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "client-api-header": "null"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "client-api-header/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "client-api-header": "null"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "client-api-header/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "client-api-header": "null"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "xff-bd/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "X-Forwarded-For": "103.4.145.10"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "xff-bd/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "X-Forwarded-For": "103.4.145.10"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "xff-bd/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "X-Forwarded-For": "103.4.145.10"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "xff-bd+api/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "X-Forwarded-For": "103.4.145.10",
+          "client-api-header": "null"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "xff-bd+api/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "X-Forwarded-For": "103.4.145.10",
+          "client-api-header": "null"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "xff-bd+api/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "X-Forwarded-For": "103.4.145.10",
+          "client-api-header": "null"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "referer-bd/Sony Ten Sports 1 HD",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "Referer": "https://toffeelive.com/en/live"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "referer-bd/Cartoon Network",
+      "channel": "mC6W-JQBv9knK3AHfDWA",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "Referer": "https://toffeelive.com/en/live"
+        }
+      }
+    },
+    {
+      "section": "headers",
+      "label": "referer-bd/Discovery",
+      "channel": "KS6x-JQBv9knK3AHwDZy",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "headers": {
+          "Referer": "https://toffeelive.com/en/live"
+        }
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'PRIWP00005'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRIWP00005"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'PRIWP00005'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRIWP00005"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'PRIWP00005'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRIWP00005"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'PRIWP00005', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRIWP00005"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=PRIWP00005",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRIWP00005",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=PRIWP00005",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 400,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "extra": {
+        "plan": "PRIWP00005",
+        "via": "GET"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'PRMJS00004'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRMJS00004"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'PRMJS00004'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRMJS00004"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'PRMJS00004'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRMJS00004"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'PRMJS00004', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRMJS00004"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=PRMJS00004",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRMJS00004",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=PRMJS00004",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 400,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "extra": {
+        "plan": "PRMJS00004",
+        "via": "GET"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'TK0ULTOF1D'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1D"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'TK0ULTOF1D'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1D"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'TK0ULTOF1D'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1D"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'TK0ULTOF1D', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1D"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=TK0ULTOF1D",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1D",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=TK0ULTOF1D",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1D",
+        "via": "GET"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'TK0ULTOF1DPOST'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1DPOST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'TK0ULTOF1DPOST'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1DPOST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'TK0ULTOF1DPOST'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1DPOST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'TK0ULTOF1DPOST', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1DPOST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=TK0ULTOF1DPOST",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1DPOST",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=TK0ULTOF1DPOST",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0ULTOF1DPOST",
+        "via": "GET"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'PRYVU00010'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRYVU00010"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'PRYVU00010'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRYVU00010"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'PRYVU00010'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRYVU00010"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'PRYVU00010', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRYVU00010"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=PRYVU00010",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRYVU00010",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=PRYVU00010",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "PRYVU00010",
+        "via": "GET"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'BLALLPACKPLANGTE7'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "BLALLPACKPLANGTE7"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'BLALLPACKPLANGTE7'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "BLALLPACKPLANGTE7"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'BLALLPACKPLANGTE7'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "BLALLPACKPLANGTE7"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'BLALLPACKPLANGTE7', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "BLALLPACKPLANGTE7"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=BLALLPACKPLANGTE7",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "BLALLPACKPLANGTE7",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=BLALLPACKPLANGTE7",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 400,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "extra": {
+        "plan": "BLALLPACKPLANGTE7",
+        "via": "GET"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'TK0USSD7DGTOFSUBS'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0USSD7DGTOFSUBS"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan_id': 'TK0USSD7DGTOFSUBS'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0USSD7DGTOFSUBS"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'subscription_id': 'TK0USSD7DGTOFSUBS'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0USSD7DGTOFSUBS"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "body={'plan': 'TK0USSD7DGTOFSUBS', 'channel_id': 'py5j-JQBv9knK3AHxDTY'}",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0USSD7DGTOFSUBS"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "POST query plan=TK0USSD7DGTOFSUBS",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 401,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "extra": {
+        "plan": "TK0USSD7DGTOFSUBS",
+        "via": "POST"
+      }
+    },
+    {
+      "section": "plan",
+      "label": "GET query plan=TK0USSD7DGTOFSUBS",
+      "channel": "py5j-JQBv9knK3AHxDTY",
+      "status": 400,
+      "streams": [],
+      "error": "",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "extra": {
+        "plan": "TK0USSD7DGTOFSUBS",
+        "via": "GET"
+      }
+    }
+  ]
+}
