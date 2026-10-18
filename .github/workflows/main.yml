@@ -1,0 +1,55 @@
+name: Toffee Force-API Probe
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'      # প্রতি ৬ ঘণ্টায় (probe, তাই কম দরকার)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: toffee-force-api
+  cancel-in-progress: true
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run force-API probe
+        env:
+          DEVICE_TOKEN: ${{ secrets.DEVICE_TOKEN }}
+          BD_ECS: ${{ vars.BD_ECS }}          # না থাকলে ডিফল্ট ব্যবহার হবে
+        run: python force_api.py
+
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: force-report
+          path: results/
+          retention-days: 14
+
+      - name: Commit report
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Force-API probe [skip ci] $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
