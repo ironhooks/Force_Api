@@ -607,10 +607,10 @@
       "section": "plan",
       "label": "GET query plan=PRIWP00005",
       "channel": "py5j-JQBv9knK3AHxDTY",
-      "status": 400,
+      "status": 401,
       "streams": [],
       "error": "",
-      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
       "extra": {
         "plan": "PRIWP00005",
         "via": "GET"
@@ -681,10 +681,10 @@
       "section": "plan",
       "label": "GET query plan=PRMJS00004",
       "channel": "py5j-JQBv9knK3AHxDTY",
-      "status": 401,
+      "status": 400,
       "streams": [],
       "error": "",
-      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
       "extra": {
         "plan": "PRMJS00004",
         "via": "GET"
@@ -829,10 +829,10 @@
       "section": "plan",
       "label": "GET query plan=TK0ULTOF1DPOST",
       "channel": "py5j-JQBv9knK3AHxDTY",
-      "status": 400,
+      "status": 401,
       "streams": [],
       "error": "",
-      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
       "extra": {
         "plan": "TK0ULTOF1DPOST",
         "via": "GET"
@@ -903,10 +903,10 @@
       "section": "plan",
       "label": "GET query plan=PRYVU00010",
       "channel": "py5j-JQBv9knK3AHxDTY",
-      "status": 400,
+      "status": 401,
       "streams": [],
       "error": "",
-      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
+      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
       "extra": {
         "plan": "PRYVU00010",
         "via": "GET"
