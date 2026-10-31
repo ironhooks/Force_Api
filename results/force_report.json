@@ -755,10 +755,10 @@
       "section": "plan",
       "label": "GET query plan=TK0ULTOF1D",
       "channel": "py5j-JQBv9knK3AHxDTY",
-      "status": 401,
+      "status": 400,
       "streams": [],
       "error": "",
-      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
       "extra": {
         "plan": "TK0ULTOF1D",
         "via": "GET"
@@ -977,10 +977,10 @@
       "section": "plan",
       "label": "GET query plan=BLALLPACKPLANGTE7",
       "channel": "py5j-JQBv9knK3AHxDTY",
-      "status": 401,
+      "status": 400,
       "streams": [],
       "error": "",
-      "snippet": "{\"error\":\"Unauthorized: Missing or invalid Authorization header\"}",
+      "snippet": "{\"statusCode\":400,\"message\":\"No such account\"}",
       "extra": {
         "plan": "BLALLPACKPLANGTE7",
         "via": "GET"
